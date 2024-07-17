@@ -14,6 +14,5 @@
 ---
 
 <p style="display: flex;">
-    <img style="height: auto; width: 59%" src="https://github-readme-stats.vercel.app/api?username=MagicGopher&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&bg_color=0,FF69B4,FFD700,00FA9A&theme=graywhite" >
-    <img style="height: auto; width: 39%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MagicGopher&hide_title=true&hide_border=true&layout=compact&bg_color=0,00FA9A,FFD700,FF69B4&theme=graywhite" >
+    <a href="https://magicgopher.cn/"><img style="height: auto; width: 60%" src="https://github-readme-stats.vercel.app/api?username=MagicGopher&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&bg_color=0,FF69B4,FFD700,00FA9A&theme=graywhite" ><img style="height: auto; width: 40%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MagicGopher&hide_title=true&hide_border=true&layout=compact&bg_color=0,00FA9A,FFD700,FF69B4&theme=graywhite" ></a>
 </p>
