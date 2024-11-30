@@ -16,3 +16,17 @@
 <p style="display: flex;">
     <a href="https://magicgopher.cn/"><img style="height: auto; width: 60%" src="https://github-readme-stats.vercel.app/api?username=MagicGopher&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&bg_color=0,FF69B4,FFD700,00FA9A&theme=graywhite" ><img style="height: auto; width: 40%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MagicGopher&hide_title=true&hide_border=true&layout=compact&bg_color=0,00FA9A,FFD700,FF69B4&theme=graywhite" ></a>
 </p>
+
+---
+
+### 🚀 Tech Stack
+
+<p>
+    <img src="https://skillicons.dev/icons?i=go,java,spring,kafka,c,cpp,kotlin,ktor,python,js,ts,html,css,vue,react,flutter,tailwind,pinia,sass,less,nuxtjs,elasticsearch,selenium,tensorflow" />
+</p>
+
+### 🛠 Tools
+
+<p>
+    <img src="https://skillicons.dev/icons?i=ubuntu,kali,linux,windows,docker,kubernetes,prometheus,git,github,gitlab,jenkins,idea,webstorm,clion,androidstudio,mysql,postgres,cassandra,redis,mongodb,postman,vite,vitest,nodejs,bun,nginx,maven,gradle,md,discord" />
+</p>
